@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **norazlan-dev/norazlan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=norazlan-dev&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
